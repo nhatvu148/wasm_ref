@@ -6,3 +6,5 @@
 -   /Users/nhatvu148/Qt/5.15.1/wasm_32/bin/qmake
 -   make
 -   emrun --browser chrome --port 8000 qt_wasm.html
+-   OR:
+-   serve
