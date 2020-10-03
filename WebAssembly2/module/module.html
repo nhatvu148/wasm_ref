@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module</title>
+</head>
+<body>
+    <script>
+        var Module = {
+            'onRuntimeInitialized': () => {
+            //ccall(name, returnType, argumentTypes, args, opts) 
+            //number, string -> char*, array   Uint8Array Int8Array
+            console.log(Module.ccall('add', 'number', ['number', 'number'], [3, 4]));
+
+            const arr =[1, 2,3,4];
+            const arrLen = arr.length;
+            const bytesPerElement = Module.HEAP32.BYTES_PER_ELEMENT;
+            const arrayPointer = Module._malloc(arrLen * bytesPerElement);
+            Module.HEAP32.set(arr, (arrayPointer / bytesPerElement));
+            console.log(Module.ccall('sumArray', 'number', ['number', 'number'], [arrayPointer, arrLen]));
+
+            Module._free(arrayPointer);
+
+            //cwrap(name, returnType, argumentTypes)
+            let fibo = Module.cwrap('fibonacci', 'number', ['number']);
+            console.log(fibo(5));
+            console.log(fibo(6));
+            console.log(fibo(7));
+        }
+    };
+    </script>
+    <script src="module.js"></script>
+</body>
+</html>

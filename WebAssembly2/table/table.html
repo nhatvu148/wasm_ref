@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table</title>
+</head>
+<body>
+    <script>
+        let table = new WebAssembly.Table({initial: 2, element:"anyfunc"});
+        WebAssembly.instantiateStreaming(fetch('table.wasm')).then((result) => {
+            console.log(result);
+            table.set(0, result.instance.exports.add);
+            table.set(1, result.instance.exports.return10);
+            console.log(table.get(0)(1, 2));
+            console.log(table.get(1)());
+        })
+    </script>
+</body>
+</html>
