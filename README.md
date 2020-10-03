@@ -1,5 +1,5 @@
 # wasm_ref
-# Build WASM QT:
+# Build WASM QT: https://doc.qt.io/qt-5/wasm.html
 -   cd emsdk
 -   source ./emsdk_env.sh
 -   cd /Users/nhatvu148/qt_wasm
@@ -8,3 +8,9 @@
 -   emrun --browser chrome --port 8000 qt_wasm.html
 -   OR:
 -   serve
+
+# References:
+-   https://wasdk.github.io/WasmFiddle/
+-   https://webassembly.studio/
+-   https://mbebenita.github.io/WasmExplorer/
+-   https://webassembly.github.io/wabt/demo/wat2wasm/
