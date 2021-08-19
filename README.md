@@ -13,6 +13,8 @@
 -   WebGL: https://mattdesl.github.io/workshop-webgl-glsl/#/
 -   https://static.frontendmasters.com/resources/2019-10-28-more-creative-coding/webgl-shaders.pdf
 -   https://github.com/mattdesl/workshop-webgl-glsl
+-   https://static.frontendmasters.com/resources/2018-10-25-canvas-webgl/creative-coding.pdf
+-   https://github.com/mattdesl/workshop-generative-art
 
 -   Rust: https://docs.google.com/presentation/d/1kkTsCrMIVtxYef9T7SV-MWS-nQlnmTniAGaTl6L9Fe4/edit#slide=id.gc1acfb29be_0_4335
 -   https://rtfeldman-rust-workshop.netlify.app/
