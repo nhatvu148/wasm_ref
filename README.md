@@ -36,6 +36,12 @@
 -   Deno: https://burkeholland.github.io/deno-first-look/
 -   https://github.com/burkeholland/deno-exercises
 
+-   Python: https://practical.learnpython.dev/
+
+-   DB: https://btholt.github.io/complete-intro-to-databases/
+
+-   D3: https://observablehq.com/@sxywu/introduction-to-svg-and-d3-js
+
 -   https://wasdk.github.io/WasmFiddle/
 -   https://webassembly.studio/
 -   https://mbebenita.github.io/WasmExplorer/
