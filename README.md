@@ -30,6 +30,9 @@
 
 -   https://github.com/btholt/complete-intro-to-computer-science
 -   https://young.github.io/intro-to-web-assembly/
+
+-   VIM: https://theprimeagen.github.io/vim-fundamentals/
+
 -   https://wasdk.github.io/WasmFiddle/
 -   https://webassembly.studio/
 -   https://mbebenita.github.io/WasmExplorer/
