@@ -10,6 +10,7 @@
 -   serve
 
 # References:
+-   WebGL: https://mattdesl.github.io/workshop-webgl-glsl/#/
 -   https://young.github.io/intro-to-web-assembly/
 -   https://wasdk.github.io/WasmFiddle/
 -   https://webassembly.studio/
