@@ -59,6 +59,8 @@
 
 -   Interview: https://docs.google.com/presentation/d/1-04cvp4xDLNb8YRWpkmPTEY_4r-56sM5J178lxjU4vA/edit
 
+-   JS: https://static.frontendmasters.com/resources/2019-09-18-javascript-hard-parts-v2/javascript-hard-parts-v2.pdf
+
 -   https://wasdk.github.io/WasmFiddle/
 -   https://webassembly.studio/
 -   https://mbebenita.github.io/WasmExplorer/
