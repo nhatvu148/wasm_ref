@@ -12,6 +12,7 @@
 # References:
 -   WebGL: https://mattdesl.github.io/workshop-webgl-glsl/#/
 -   Rust: https://docs.google.com/presentation/d/1kkTsCrMIVtxYef9T7SV-MWS-nQlnmTniAGaTl6L9Fe4/edit#slide=id.gc1acfb29be_0_4335
+-   https://rtfeldman-rust-workshop.netlify.app/
 -   TypeScript: https://www.typescript-training.com/course/intermediate-v1
 -   TypeScript2: https://www.typescript-training.com/course/fundamentals-v3
 -   https://github.com/mike-north/ts-fundamentals-v3
