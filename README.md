@@ -11,6 +11,7 @@
 
 # References:
 -   WebGL: https://mattdesl.github.io/workshop-webgl-glsl/#/
+-   Rust: https://docs.google.com/presentation/d/1kkTsCrMIVtxYef9T7SV-MWS-nQlnmTniAGaTl6L9Fe4/edit#slide=id.gc1acfb29be_0_4335
 -   https://young.github.io/intro-to-web-assembly/
 -   https://wasdk.github.io/WasmFiddle/
 -   https://webassembly.studio/
