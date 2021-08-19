@@ -33,6 +33,9 @@
 
 -   VIM: https://theprimeagen.github.io/vim-fundamentals/
 
+-   Deno: https://burkeholland.github.io/deno-first-look/
+-   https://github.com/burkeholland/deno-exercises
+
 -   https://wasdk.github.io/WasmFiddle/
 -   https://webassembly.studio/
 -   https://mbebenita.github.io/WasmExplorer/
