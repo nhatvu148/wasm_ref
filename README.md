@@ -16,6 +16,7 @@
 -   TypeScript2: https://www.typescript-training.com/course/fundamentals-v3
 -   https://github.com/mike-north/ts-fundamentals-v3
 -   CS: https://btholt.github.io/complete-intro-to-computer-science/
+-   Redux: https://stevekinney.github.io/redux-fundamentals/
 -   https://github.com/btholt/complete-intro-to-computer-science
 -   https://young.github.io/intro-to-web-assembly/
 -   https://wasdk.github.io/WasmFiddle/
