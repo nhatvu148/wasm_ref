@@ -26,6 +26,7 @@
 -   CS: https://btholt.github.io/complete-intro-to-computer-science/
 -   Redux: https://stevekinney.github.io/redux-fundamentals/
 -   https://static.frontendmasters.com/resources/2019-05-28-react-state/redux-mobx.pdf
+-   https://gist.github.com/stevekinney/7b25237edd43c3e450b288c9e7857c29
 
 -   React: https://btholt.github.io/complete-intro-to-react-v6/
 -   https://github.com/btholt/complete-intro-to-react-v6
