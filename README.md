@@ -53,6 +53,10 @@
 -   Golang: https://static.frontendmasters.com/resources/2019-09-24-golang/golang.pdf
 -   https://github.com/martensonbj/fem-intro-to-go
 
+-   Docker: https://btholt.github.io/complete-intro-to-containers/
+-   https://github.com/btholt/complete-intro-to-containers
+-   https://github.com/btholt/projects-for-complete-intro-to-containers
+
 -   https://wasdk.github.io/WasmFiddle/
 -   https://webassembly.studio/
 -   https://mbebenita.github.io/WasmExplorer/
