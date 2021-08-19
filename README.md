@@ -40,6 +40,7 @@
 -   https://github.com/burkeholland/deno-exercises
 
 -   Python: https://practical.learnpython.dev/
+-   https://www.learnpython.dev/
 
 -   DB: https://btholt.github.io/complete-intro-to-databases/
 
